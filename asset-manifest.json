@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aplikasi-catatan-pribadi/static/css/main.2f235220.css",
+    "main.js": "/aplikasi-catatan-pribadi/static/js/main.2093658b.js",
+    "index.html": "/aplikasi-catatan-pribadi/index.html",
+    "main.2f235220.css.map": "/aplikasi-catatan-pribadi/static/css/main.2f235220.css.map",
+    "main.2093658b.js.map": "/aplikasi-catatan-pribadi/static/js/main.2093658b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f235220.css",
+    "static/js/main.2093658b.js"
+  ]
+}
